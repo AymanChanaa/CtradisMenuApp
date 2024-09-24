@@ -1,3 +1,5 @@
+- APPWRITE : Plateforme for saving images, files, creating databases. 
+
 -To run the application :  npx expo start -c
 - Bundle Id:
 com.app.ctradisApp
@@ -55,7 +57,6 @@ we have to install xcode, and we fast refresh we can see the changes we made in 
 - Quick start : rnfes
 
 - For expo-route : we will use Stack and Slot
-- achanaa999@gmail.com      12345678
 - useLocalSearchParams :  It allows you to read the query parameters from the URL. For example, if the URL is https://example.com/page?search=react, you can use this hook to get the value of search.
 
 
@@ -95,19 +96,6 @@ eas build -p android --profile preview   : It works on my mother's phone
 
 - Product : productId - title - designation - image
 - Details Produit : title - entreprise - product_image - designation - details - productId 
-
-
-Bojour tout le monde, 
-1- je suis Ayman Chanaa
-2- Ensa Tanger (Ecole nationale des sciences appliquées de Tanger)
-3- Etudiant en génie informatique en 3ème année cycle ingénieur 
-4- Sujet 1 : 3D Machine Learning/Deep Learning
-5- rôle que je souhaite avoir : data analyst - modele training.
-6- rôle organisationnel: ça depend de notre équipe.
-7- je suis curieux à propos les nouvelles technologies et le domaine de l'intelligence artificielle.
-8- j'aime bien le sport, le voyage et les échecs.
-9- Intégré au sein de plusieurs clubs humains et sportif.
-10- je suis curieux, responsable, esprit d'équipe, capacité d'apprentissage et d'adaptabilité.
 
 
 
