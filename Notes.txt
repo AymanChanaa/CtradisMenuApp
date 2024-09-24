@@ -1,0 +1,120 @@
+-To run the application :  npx expo start -c
+- Bundle Id:
+com.app.ctradisApp
+npx create-expo-app CtradisMenuApp --template blank   
+-Commands:
+* npm i all 
+* npm install nativewind    
+* npm install --save-dev tailwindcss@3.3.2      
+* npx expo install expo-router react-native-safe-area-context react-native-screens expo-linking expo-constants expo-status-bar
+* npx expo start -c  
+* npx expo install react-native-appwrite react-native-url-polyfill
+* npm install react-native-animatable expo-av
+* expo install expo-av
+* npm install expo-document-picker
+* npm install expo-image-picker
+* npm install react-native-paper
+
+https://d23dyxeqlo5psv.cloudfront.net/big_buck_bunny.mp4
+
+- Expo CLI / React native CLI
+
+- React native CLI Project have Android and IOS project, so you need to be familiar to programme in Android and IOS.
+
+- Install Expo CLI:
+npm i -g expo-cli 
+
+- Install Expo Go in my phone 
+
+- Some important Extensions in visual studio code : React Native Tools / React-Native/React/Redux snippets for es6/es7 / Prettier - Code formatter / Material Icon Theme
+
+- Build my project:
+expo init CtradisApp
+npx create-expo-app CtradisApp --template blank
+
+- To run the application on iOS simulator:
+we have to install xcode, and we fast refresh we can see the changes we made in the app directly in the simulator.
+
+- Debug the code : We can use console.log() 
+
+- For Styling: NativeWind
+
+- Components: 
+* Text : h1, p
+* View : div
+* TouchableOpacity, TouchableHighlight, TouchableWithoutFeedback : Button
+* ActivityIndicator : spin(loader)
+* FlatList: list of items scrollable and separated (For larger lists with smooth scrolling)
+  Map function : For smaller lists
+* SafeAreaView : make sure that the content is not covered by anything
+* ScrollView: We can make sure that the users can easily explore all the content.
+* Swith : create a switch 
+* image , imageBackground
+* Alert : Showing an alert 
+
+- Quick start : rnfes
+
+- For expo-route : we will use Stack and Slot
+- achanaa999@gmail.com      12345678
+- useLocalSearchParams :  It allows you to read the query parameters from the URL. For example, if the URL is https://example.com/page?search=react, you can use this hook to get the value of search.
+
+
+- Deployement:
+* npm install -g expo-cli
+* expo login
+* expo publish
+
+- eas cli:
+* npm install -g eas-cli
+* eas login
+* npx expo install expo-updates 
+* eas update:configure
+* eas build:configure
+
+- Build for iOS Simulators:
+* eas build -p ios --profile preview
+
+- Build for iOS devices: https://www.youtube.com/watch?v=LE4Mgkrf7Sk&t=295s
+* Apple developer program, we have to create an account for $99 per year
+* Create an account on expo Go
+* install eas-cli : npm install -g eas-cli
+* login expo Go: eas login
+* Verify connexion: eas whoami
+* eas build:configure
+* eas build --platform iOS
+* configure eas.json file 
+* eas submit -p ios -- latest
+* After the application it's published
+* To update the app : eas publish
+
+- eas device:create
+
+- Android:
+eas build -p android --profile preview   : It works on my mother's phone 
+
+
+- Product : productId - title - designation - image
+- Details Produit : title - entreprise - product_image - designation - details - productId 
+
+
+Bojour tout le monde, 
+1- je suis Ayman Chanaa
+2- Ensa Tanger (Ecole nationale des sciences appliquées de Tanger)
+3- Etudiant en génie informatique en 3ème année cycle ingénieur 
+4- Sujet 1 : 3D Machine Learning/Deep Learning
+5- rôle que je souhaite avoir : data analyst - modele training.
+6- rôle organisationnel: ça depend de notre équipe.
+7- je suis curieux à propos les nouvelles technologies et le domaine de l'intelligence artificielle.
+8- j'aime bien le sport, le voyage et les échecs.
+9- Intégré au sein de plusieurs clubs humains et sportif.
+10- je suis curieux, responsable, esprit d'équipe, capacité d'apprentissage et d'adaptabilité.
+
+
+
+
+
+
+
+
+
+
